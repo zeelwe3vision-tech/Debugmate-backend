@@ -1,0 +1,16 @@
+flask
+flask-session
+flask-cors
+python-dotenv
+requests
+tabulate
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+supabase
+PyPDF2
+numpy
+pandas
+tqdm

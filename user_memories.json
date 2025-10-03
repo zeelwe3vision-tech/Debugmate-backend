@@ -1,0 +1,32 @@
+{
+  "memory_1": {
+    "title": "User Name",
+    "content": "The user's name is Zeel.",
+    "created_at": "2025-07-04T15:42:19.433537",
+    "updated_at": "2025-07-04T15:42:19.433544"
+  },
+  "memory_3": {
+    "title": "User Role",
+    "content": "The user works as software developer.",
+    "created_at": "2025-07-05T17:35:45.808909",
+    "updated_at": "2025-07-05T17:35:45.808915"
+  },
+  "memory_4": {
+    "title": "User Preference: working with Python and JavaSc...",
+    "content": "User mentioned: working with Python and JavaScript",
+    "created_at": "2025-07-05T17:35:55.543138",
+    "updated_at": "2025-07-05T17:35:55.543156"
+  },
+  "memory_6": {
+    "title": "Bot Insight",
+    "content": "Thanks, Zeel!",
+    "created_at": "2025-07-10T09:41:54.032517",
+    "updated_at": "2025-07-10T09:41:54.032518"
+  },
+  "memory_7": {
+    "title": "Technical Skill",
+    "content": "User is proficient in Python",
+    "created_at": "2025-07-05T17:36:29.652468",
+    "updated_at": "2025-07-05T17:36:29.652476"
+  }
+}

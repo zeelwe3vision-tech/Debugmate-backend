@@ -8,5 +8,6 @@ langchain
 chromadb
 requests
 httpx
-
+langchain-community
 tabulate
+

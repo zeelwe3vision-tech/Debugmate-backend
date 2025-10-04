@@ -14,3 +14,7 @@ PyPDF2
 numpy
 pandas
 tqdm
+gunicorn
+openai
+tiktoken
+

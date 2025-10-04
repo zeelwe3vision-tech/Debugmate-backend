@@ -1,16 +1,10 @@
-# requirements.txt (light)
-Flask==3.1.2
-Flask-Session==0.8.0
-Flask-Cors==6.0.1
-python-dotenv==1.1.1
-requests==2.34.0
-supabase==2.21.1
-langchain==0.3.27
-langchain-community==0.3.30
-huggingface-hub==0.35.3
-chromadb==1.1.0
-torch==2.8.0+cpu
-transformers==4.57.0
-sentence-transformers==5.1.1
-onnxruntime==1.23.0
-
+Flask
+flask-cors
+Flask-Session
+python-dotenv
+gunicorn
+supabase
+langchain
+chromadb
+requests
+httpx

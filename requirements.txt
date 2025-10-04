@@ -10,4 +10,6 @@ requests
 httpx
 langchain-community
 tabulate
+langchain-text-splitters
+
 

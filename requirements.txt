@@ -1,8 +1,0 @@
-flask
-flask_session
-python-dotenv
-langchain-community
-langchain-text-splitters
-chromadb
-supabase
-requests 

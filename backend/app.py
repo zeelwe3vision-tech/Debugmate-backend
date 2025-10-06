@@ -1809,7 +1809,11 @@ def dual_chat():
     except Exception as e:
         print("Chat error:", traceback.format_exc())
         return jsonify({"reply": "⚠️ Error, please try again."})
-if __name__ == "__main__":
-    if collection.count() == 0:
-        load_documents()
-    app.run(debug=True, port=5000) 
+# if __name__ == "__main__":
+#     if collection.count() == 0:
+#         load_documents()
+#     app.run(debug=True, port=8000) 
+if _name_ == "_main_":
+    import os
+    port = int(os.environ.get("PORT", 8000))  # Render provides PORT env
+    app.run(host="0.0.0.0", port=port)
